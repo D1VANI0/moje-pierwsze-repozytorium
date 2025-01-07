@@ -1,1 +1,3 @@
 To jest plik w nowym branchu.
+
+Zmiany w pliku tekstowym
