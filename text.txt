@@ -3,3 +3,4 @@ To jest plik w nowym branchu.
 Zmiany w pliku tekstowym
 Zmiany №2 dla zadania 4
 Zmiany №3 dla zadania 4
+Aktalizacja kodu
